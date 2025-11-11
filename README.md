@@ -8,13 +8,14 @@
 
 ## Über mich
 
-Während meines **Data-Science-Studiums an der TH Köln** mit wirtschaftlichem Schwerpunkt habe ich gelernt, wie faszinierend es ist, **wirtschaftliche Zusammenhänge durch Daten sichtbar und erklärbar zu machen**.  
-Mich motiviert, aus Rohdaten **entscheidungsrelevante Insights** zu gewinnen und damit **datengetriebene Entscheidungen** zu unterstützen – sei es in der Automatisierung von Prozessen, in der Optimierung von Geschäftsabläufen oder bei der Nutzung von KI-gestützten Systemen.  
+Im Rahmen meines **Data-Science-Studiums an der TH Köln** mit wirtschaftlichem Schwerpunkt habe ich gelernt, **wirtschaftliche Zusammenhänge durch Daten sichtbar und erklärbar zu machen**.  
+Ich motiviere mich daran, aus Rohdaten **entscheidungsrelevante Insights** zu gewinnen und **datengetriebene Entscheidungen** zu unterstützen – etwa bei **Automatisierung, Prozessoptimierung** oder **KI-gestützten Analysen**.  
 
-Ich interessiere mich besonders für die Kombination aus **Business Intelligence, ETL-Prozessen und Datenvisualisierung**, um komplexe Daten verständlich zu kommunizieren (Data Storytelling). Dabei lege ich großen Wert auf **Datenqualität, Nachvollziehbarkeit** und dem tatsächlichen Bezug zum **wirtschaftlichen Nutzen**.  
+Mein Fokus liegt auf **Business Intelligence, ETL-Prozessen und Datenvisualisierung**, um komplexe Daten verständlich zu kommunizieren (*Data Storytelling*).  
+Ich lege Wert auf **Datenqualität, Nachvollziehbarkeit** und den Bezug zum **wirtschaftlichen Nutzen**.  
 
-Durch Projekte im Studium, Praktika und eigene Data-Challenges habe ich bereits eine weite Pallete an Erfahrung in **Datenanalyse, Reporting, Workflow-Automatisierung und Machine Learning** gesammelt.  
-Mein Ziel ist es, Daten so aufzubereiten, dass sie **praxisnah, transparent und wirtschaftlich relevant** werden.
+Durch akademische Projekte, Praktika und eigene Data-Challenges habe ich Erfahrung in **Datenanalyse, Reporting, Workflow-Automatisierung und Machine Learning** gesammelt.  
+Mein Ziel: Daten **praxisnah, transparent und wirtschaftlich relevant** aufbereiten.
 
 ---
 
@@ -36,11 +37,11 @@ Mein Ziel ist es, Daten so aufzubereiten, dass sie **praxisnah, transparent und 
 | Bereich | Fähigkeiten |
 |----------|-------------|
 | **Analytisches Denken** | Probleme erkennen, Daten hinterfragen, Muster analysieren |
-| **Lernbereitschaft** | Neue Tools schnell adaptieren, flexibel auf Anforderungen reagieren |
+| **Lernbereitschaft** | Neue Tools und Methoden schnell adaptieren |
 | **Kommunikation** | Insights verständlich aufbereiten, Präsentation für Team & Stakeholder |
 | **Teamfähigkeit** | Zusammenarbeit in Projekten, Wissensaustausch |
 | **Selbstorganisation** | Aufgaben priorisieren, Deadlines einhalten, eigenständige Arbeitsweise |
-| **Grundverständnis Business & KPIs** | Daten in wirtschaftlichen Kontext einordnen, Entscheidungsrelevanz erkennen |
+| **Business-Verständnis & KPIs** | Daten in wirtschaftlichen Kontext einordnen, Entscheidungsrelevanz erkennen |
 
 ---
 
@@ -61,12 +62,11 @@ Mein Ziel ist es, Daten so aufzubereiten, dass sie **praxisnah, transparent und 
 
 ---
 
-## Kontakt
+## Kontakt & Vernetzen
 
 📧 **E-Mail:** jankrings.data@gmail.com  
 💼 **LinkedIn:** [linkedin](https://de.linkedin.com/in/jan-krings-3bb081323)  
 🐙 **GitHub:** [github-portfolio](https://github.com/jan-krings-dev)
 
----
-
-> *Mich motiviert, aus Rohdaten klare Insights zu gewinnen, wirtschaftliche Zusammenhänge zu verstehen und datengetriebene Entscheidungen transparenter und effizienter zu machen.*
+> Ich freue mich über Austausch zu Datenprojekten, Business Intelligence oder Junior-BI-Rollen.  
+> Schreibe mir gerne eine Nachricht oder kontaktiere mich über LinkedIn!
