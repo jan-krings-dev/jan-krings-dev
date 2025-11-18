@@ -8,14 +8,15 @@
 
 ## Über mich
 
-Im Rahmen meines **Data-Science-Studiums an der TH Köln** mit wirtschaftlichem Schwerpunkt habe ich gelernt, **wirtschaftliche Zusammenhänge durch Daten sichtbar und erklärbar zu machen**.  
-Ich motiviere mich daran, aus Rohdaten **entscheidungsrelevante Insights** zu gewinnen und **datengetriebene Entscheidungen** zu unterstützen – etwa bei **Automatisierung, Prozessoptimierung** oder **KI-gestützten Analysen**.  
+Ich studiere **Data Science an der TH Köln** mit wirtschaftlichem Schwerpunkt und nutze Daten, um **geschäftliche Zusammenhänge sichtbar, messbar und steuerbar** zu machen.  
 
-Mein Fokus liegt auf **Business Intelligence, ETL-Prozessen und Datenvisualisierung**, um komplexe Daten verständlich zu kommunizieren (*Data Storytelling*).  
-Ich lege Wert auf **Datenqualität, Nachvollziehbarkeit** und den Bezug zum **wirtschaftlichen Nutzen**.  
+Mir geht es darum, aus Rohdaten **konkrete, umsetzbare Empfehlungen** abzuleiten – z. B. für **Automatisierung, Prozessverbesserung** oder **Kunden- und Umsatzanalysen**.  
 
-Durch akademische Projekte, Praktika und eigene Data-Challenges habe ich Erfahrung in **Datenanalyse, Reporting, Workflow-Automatisierung und Machine Learning** gesammelt.  
-Mein Ziel: Daten **praxisnah, transparent und wirtschaftlich relevant** aufbereiten.
+Mein Fokus liegt auf **Business Intelligence, ETL-Prozessen und Datenvisualisierung**, damit Zahlen für Fachbereiche verständlich und nutzbar werden (*Data Storytelling*).  
+Wichtig sind mir dabei **Datenqualität, Transparenz der Schritte** und ein klarer Bezug zum **Business Value**.  
+
+Über Studium, Praktika und eigene Projekte habe ich Erfahrung in **Datenanalyse, Reporting, Workflow-Automatisierung und Machine Learning** gesammelt.  
+Ziel: Daten so aufzubereiten, dass sie im Unternehmen **entscheidungsrelevant, nachvollziehbar und praxistauglich** sind.
 
 ---
 
@@ -24,32 +25,33 @@ Mein Ziel: Daten **praxisnah, transparent und wirtschaftlich relevant** aufberei
 ## Technisches Skillset
 
 | Bereich | Tools & Technologien |
-|----------|----------------------|
+|--------|----------------------|
 | **Datenanalyse** | Python (pandas, numpy, matplotlib, scikit-learn) |
 | **Datenbanken & Abfragen** | SQL (PostgreSQL), ETL, Datenmodellierung |
-| **Business Intelligence** | Power BI, DAX, Power Query, KPI Design |
-| **Automatisierung & Versionierung** | Python, Git/GitHub |
+| **Business Intelligence** | Power BI, DAX, Power Query, KPI-Design |
+| **Automatisierung & Versionierung** | Python, Git / GitHub |
 | **Maschinelles Lernen & KI** | Regression, Klassifikation, Clustering, neuronale Netze, Deep Learning, NLP-Grundlagen |
-| **Data Storytelling & Reporting** | Interaktive Dashboards, KPI-Berichte, Data-driven Decision Making |
+| **Data Storytelling & Reporting** | Interaktive Dashboards, KPI-Berichte, datengetriebene Entscheidungsvorlagen |
 
 ## Persönliche Skills
 
 | Bereich | Fähigkeiten |
-|----------|-------------|
-| **Analytisches Denken** | Probleme erkennen, Daten hinterfragen, Muster analysieren |
-| **Lernbereitschaft** | Neue Tools und Methoden schnell adaptieren |
-| **Kommunikation** | Insights verständlich aufbereiten, Präsentation für Team & Stakeholder |
-| **Teamfähigkeit** | Zusammenarbeit in Projekten, Wissensaustausch |
-| **Selbstorganisation** | Aufgaben priorisieren, Deadlines einhalten, eigenständige Arbeitsweise |
-| **Business-Verständnis & KPIs** | Daten in wirtschaftlichen Kontext einordnen, Entscheidungsrelevanz erkennen |
+|--------|-------------|
+| **Analytisches Denken** | Probleme strukturieren, Daten hinterfragen, Muster erkennen |
+| **Lernbereitschaft** | Neue Tools & Methoden schnell aufnehmen und anwenden |
+| **Kommunikation** | Ergebnisse klar erklären – für Fachbereiche & Stakeholder |
+| **Teamfähigkeit** | Zusammenarbeit in Projekten, offener Wissensaustausch |
+| **Selbstorganisation** | Aufgaben priorisieren, zuverlässig Deadlines einhalten |
+| **Business-Verständnis & KPIs** | Kennzahlen im Geschäftskontext einordnen, Relevanz für Entscheidungen erkennen |
 
 ---
 
 ## Projekte (Auswahl)
 
-| Projekt | Beschreibung | Insights | Technologien |
-|----------|---------------|----------|---------------|
-|  |  |  |  |
+| Projekt | Beschreibung | Insights / Ergebnisse | Technologien |
+|--------|--------------|-----------------------|-------------|
+| **[Airbnb Munich – Data Quality & KPI Pipeline](https://github.com/jan-krings-dev/airbnb-munich-insights)** | Aufbau einer End-to-End-Analytics-Pipeline für Airbnb-München: Datenqualität (Phase 1) + geplantes EDA-/KPI-Notebook (Phase 2). | **Phase 1:** Datenqualität geprüft (Missing Values, Outlier, Referential Integrity), saubere Listings-Tabelle mit Imputations- & Outlier-Flags exportiert. **Phase 2 (geplant):** EDA auf Markt- & Host-Ebene, KPI-Berechnung (ADR, RevPAR, Occupancy), erste Forecasts auf Basis des Booking-Calendars. | Python (pandas, numpy, seaborn), Jupyter Notebook, Git/Git LFS |
+
 |  |  |  |  |
 |  |  |  |  |
 
@@ -59,6 +61,10 @@ Mein Ziel: Daten **praxisnah, transparent und wirtschaftlich relevant** aufberei
 
 ## Aktuelle Schwerpunkte
 
+- Datenqualität & Data-Pipelines für BI  
+- KPI-Definition und -Berechnung (z. B. Umsatz, Conversion, Auslastung)  
+- Dashboards & Reporting für Fachbereiche  
+- Erste Forecasting-Ansätze mit Zeitreihen- und ML-Methoden  
 
 ---
 
@@ -68,5 +74,5 @@ Mein Ziel: Daten **praxisnah, transparent und wirtschaftlich relevant** aufberei
 💼 **LinkedIn:** [linkedin](https://de.linkedin.com/in/jan-krings-3bb081323)  
 🐙 **GitHub:** [github-portfolio](https://github.com/jan-krings-dev)
 
-> Ich freue mich über Austausch zu Datenprojekten, Business Intelligence oder Junior-BI-Rollen.  
-> Schreibe mir gerne eine Nachricht oder kontaktiere mich über LinkedIn!
+> Ich freue mich über Austausch zu Datenprojekten, Business Intelligence oder Junior-/Werkstudentenrollen im BI-/Data-Umfeld.  
+> Schreib mir gerne eine Nachricht oder kontaktiere mich direkt über LinkedIn.
