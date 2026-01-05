@@ -1,78 +1,108 @@
-# 👋 Hallo, ich bin Jan
+# Jan – Data Analyst | Business Intelligence
 
-🎓 **Data Analyst (Bachelorstudent)**  
-📊 **Business Intelligence | Reporting | Machine Learning**  
-⚙️ **SQL · Power BI · Python**
+## Profil
+Data-Science-Student (B.Sc.) mit wirtschaftlichem Schwerpunkt und Fokus auf
+SQL-basierte Datenanalyse, Business Intelligence und Reporting.
+Starkes Interesse an analytisch orientierten Rollen an der Schnittstelle von
+Datenanalyse, BI und Data Engineering (Analytics / Analytical Engineer).
 
 ---
 
 ## Über mich
+Ich studiere Data Science an der TH Köln mit wirtschaftlichem Fokus und
+beschäftige mich schwerpunktmäßig mit der Analyse und Aufbereitung strukturierter
+Daten für betriebliche Entscheidungsprozesse.
 
-Ich studiere **Data Science an der TH Köln** mit wirtschaftlichem Schwerpunkt und nutze Daten, um **geschäftliche Zusammenhänge sichtbar, messbar und steuerbar** zu machen.  
+Mein Kernfokus liegt auf:
+- SQL-gestützter Datenanalyse
+- Aufbau nachvollziehbarer Datenmodelle
+- KPI-Definition und Reporting mit Power BI
+- Analyse- und Reporting-Workflows mit Python
 
-Mir geht es darum, aus Rohdaten **konkrete, umsetzbare Empfehlungen** abzuleiten – z. B. für **Automatisierung, Prozessverbesserung** oder **Kunden- und Umsatzanalysen**.  
+Ich arbeite entlang der klassischen BI-Kette: von Rohdaten über
+Datenaufbereitung und Validierung bis hin zu aussagekräftigen Reports und
+Dashboards für Fachbereiche.
 
-Mein Fokus liegt auf **Business Intelligence, ETL-Prozessen und Datenvisualisierung**, damit Zahlen für Fachbereiche verständlich und nutzbar werden (*Data Storytelling*).  
-Wichtig sind mir dabei **Datenqualität, Transparenz der Schritte** und ein klarer Bezug zum **Business Value**.  
-
-Über Studium, Praktika und eigene Projekte habe ich Erfahrung in **Datenanalyse, Reporting, Workflow-Automatisierung und Machine Learning** gesammelt.  
-Ziel: Daten so aufzubereiten, dass sie im Unternehmen **entscheidungsrelevant, nachvollziehbar und praxistauglich** sind.
+Neben klassischer BI interessiere ich mich für den **gezielten Einsatz von
+Machine-Learning-Ansätzen im BI-Umfeld**, z. B. für Forecasting,
+Segmentierungen oder Anomalieerkennung.  
+Darüber hinaus entwickle ich mein Profil weiter in Richtung **Analytics /
+Analytical Engineering**, insbesondere im Bereich Datenmodelle, Transformationen
+und analytischer Datenpipelines.
 
 ---
-
-# Was mich auszeichnet
 
 ## Technisches Skillset
 
-| Bereich | Tools & Technologien |
-|--------|----------------------|
-| **Datenanalyse** | Python (pandas, numpy, matplotlib, scikit-learn) |
-| **Datenbanken & Abfragen** | SQL (PostgreSQL), ETL, Datenmodellierung |
-| **Business Intelligence** | Power BI, DAX, Power Query, KPI-Design |
-| **Automatisierung & Versionierung** | Python, Git / GitHub |
-| **Maschinelles Lernen & KI** | Regression, Klassifikation, Clustering, neuronale Netze, Deep Learning, NLP-Grundlagen |
-| **Data Storytelling & Reporting** | Interaktive Dashboards, KPI-Berichte, datengetriebene Entscheidungsvorlagen |
+### SQL & Datenmodellierung
+- SQL (PostgreSQL)
+- Komplexe Abfragen (JOINs, CTEs, Window Functions)
+- Relationale Datenmodelle
+- Datenvalidierung und Qualitätsprüfungen
 
-## Persönliche Skills
+### Business Intelligence & Reporting
+- Power BI
+- DAX
+- Power Query
+- KPI-Design und Management-Reports
+- Datenvisualisierung für Fachbereiche
 
-| Bereich | Fähigkeiten |
-|--------|-------------|
-| **Analytisches Denken** | Probleme strukturieren, Daten hinterfragen, Muster erkennen |
-| **Lernbereitschaft** | Neue Tools & Methoden schnell aufnehmen und anwenden |
-| **Kommunikation** | Ergebnisse klar erklären – für Fachbereiche & Stakeholder |
-| **Teamfähigkeit** | Zusammenarbeit in Projekten, offener Wissensaustausch |
-| **Selbstorganisation** | Aufgaben priorisieren, zuverlässig Deadlines einhalten |
-| **Business-Verständnis & KPIs** | Kennzahlen im Geschäftskontext einordnen, Relevanz für Entscheidungen erkennen |
+### Python & Analyse
+- Python 
+- Explorative Datenanalyse & Statistikkentnisse
+- Automatisierung von Analyse- und Reporting-Prozessen
+- Datenaufbereitung und Feature Engineering (grundlegend)
+
+### Machine Learning (anwendungsorientiert)
+- Regressions- und Klassifikationsmodelle
+- Clustering
+- Zeitreihen- und Forecasting-Grundlagen
+- Fokus auf praxisnahe BI-Anwendungsfälle
+
+### Tools & Arbeitsweise
+- Git / GitHub
+- Jupyter Notebooks
+- Strukturierte, reproduzierbare Analyse-Workflows
 
 ---
 
-## Projekte (Auswahl)
+## Persönliche Kompetenzen
+- Analytisches und strukturiertes Arbeiten
+- Verständnis für betriebswirtschaftliche Kennzahlen und Prozesse
+- Klare, sachliche Kommunikation von Analyseergebnissen
+- Hohe Lernbereitschaft und schnelle Einarbeitung in neue Themen
+- Selbstständige, zuverlässige Arbeitsweise
+- Teamorientierte Zusammenarbeit in Projektkontexten
 
-| Projekt | Beschreibung | Insights / Ergebnisse | Technologien |
-|--------|--------------|-----------------------|-------------|
-| **[Airbnb Munich – Data Quality & KPI Pipeline](https://github.com/jan-krings-dev/airbnb-munich-insights)** | Aufbau einer End-to-End-Analytics-Pipeline für Airbnb-München: Datenqualität (Phase 1) + geplantes EDA-/KPI-Notebook (Phase 2). | **Phase 1:** Datenqualität geprüft (Missing Values, Outlier, Referential Integrity), saubere Listings-Tabelle mit Imputations- & Outlier-Flags exportiert. **Phase 2 (geplant):** EDA auf Markt- & Host-Ebene, KPI-Berechnung (ADR, RevPAR, Occupancy), erste Forecasts auf Basis des Booking-Calendars. | Python (pandas, numpy, seaborn), Jupyter Notebook, Git/Git LFS |
+---
 
-|  |  |  |  |
-|  |  |  |  |
+## Projekte
+Die Projektsektion wird aktuell aufgebaut.
 
-> Weitere Projekte und Notebooks findest du in meinen öffentlichen Repositories.
+Geplante Schwerpunkte:
+- SQL-basierte Analysen realer Datensätze
+- Aufbau analytischer Datenmodelle
+- KPI-Berechnung und Reporting
+- Power-BI-Dashboards für Fachbereiche
+- Erste BI-nahe ML-Anwendungsfälle (Forecasting, Segmentierung)
 
 ---
 
 ## Aktuelle Schwerpunkte
-
-- Datenqualität & Data-Pipelines für BI  
-- KPI-Definition und -Berechnung (z. B. Umsatz, Conversion, Auslastung)  
-- Dashboards & Reporting für Fachbereiche  
-- Erste Forecasting-Ansätze mit Zeitreihen- und ML-Methoden  
+- SQL und analytische Abfragen
+- Business Intelligence und Reporting
+- Power BI (DAX, Datenmodelle, Visualisierung)
+- Python für Datenanalyse und Automatisierung
+- BI-nahe Machine-Learning-Ansätze
+- Entwicklung Richtung Analytics / Analytical Engineer
 
 ---
 
-## Kontakt & Vernetzen
+## Kontakt
+E-Mail: jankrings.data@gmail.com  
+LinkedIn: https://de.linkedin.com/in/jan-krings-3bb081323  
+GitHub: https://github.com/jan-krings-dev  
 
-📧 **E-Mail:** jankrings.data@gmail.com  
-💼 **LinkedIn:** [linkedin](https://de.linkedin.com/in/jan-krings-3bb081323)  
-🐙 **GitHub:** [github-portfolio](https://github.com/jan-krings-dev)
-
-> Ich freue mich über Austausch zu Datenprojekten, Business Intelligence oder Junior-/Werkstudentenrollen im BI-/Data-Umfeld.  
-> Schreib mir gerne eine Nachricht oder kontaktiere mich direkt über LinkedIn.
+Interesse an Austausch zu Business Intelligence, Data Analytics sowie
+Werkstudenten-, Junior- oder Einstiegspositionen im BI-,
+Analytics- oder datenanalytischen Engineering-Umfeld.
