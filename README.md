@@ -1,88 +1,83 @@
-# Jan – Junior Data Analyst | Business Intelligence
+# Jan Krings – Junior Data Analyst | Business Intelligence & Reporting
 
-## Profil
-B.Sc.-Student im Bereich **Data & Information Science** mit wirtschaftlichem Fokus.  
-Schwerpunkt auf **SQL-basierter Datenanalyse**, **Business Intelligence** und
-**stakeholder-gerechtem Reporting**.  
-Interesse an **Junior- / Einstiegsrollen** im Bereich **Data Analytics, BI und Reporting**.
+Ich unterstütze Fachbereiche dabei, **Daten in verständliche KPIs und Reports zu übersetzen**, die im operativen und strategischen Alltag **konkrete Entscheidungen ermöglichen**.
 
-🎓 Bachelorabschluss: Juli 2026
-
----
-
-## Über mich
-Ich studiere Data & Information Science an der TH Köln und arbeite an der
-**Analyse strukturierter Daten zur Unterstützung betrieblicher Entscheidungen**.
-
-Mein Fokus liegt auf der **klassischen BI- und Analytics-Kette**:
-von Datenaufbereitung und Modellierung über SQL-Analysen
-bis hin zu **KPIs, Reports und Dashboards für Fachbereiche**.
-
-Mein Ziel ist es, Daten **verständlich, nachvollziehbar und handlungsorientiert**
-aufzubereiten.
+**Fokus:** Business Analytics · KPI-Reporting · Entscheidungsunterstützung  
+**Werkzeuge:** Excel · Power BI · Python · SQL (PostgreSQL)  
+**Zielrollen:** Werkstudent · Junior · Entry-Level (Data Analytics, BI & Reporting)  
+🎓 B.Sc. Data & Information Science (TH Köln), Abschluss 07/2026 · wirtschaftlicher Schwerpunkt
 
 ---
 
-## 📌 Ausgewählte Projekte
-- 🟡 **Order-to-Cash Process Mining (Business Process Analysis)**
-  Business-orientierte Analyse von O2C-Execution-Abweichungen  
-  Fokus: Prozessverständnis, Management-Insights, Stakeholder-Kommunikation
+## Kurzprofil
 
-- 🟡 **End-to-End Business Analytics (SQL → Power BI)** *(in Arbeit)*  
-  Aufbau eines analytischen Management-Dashboards
+B.Sc.-Student mit wirtschaftlichem Fokus und starkem Praxisbezug in **Business Analytics und Reporting**.  
+Ich arbeite entlang der klassischen Analyse- und Reporting-Kette – von der **Datenaufbereitung** bis zur **adressatengerechten Kommunikation** von Ergebnissen.
 
-- 🟡 **Excel Ad-hoc Performance Analysis** *(in Arbeit)*  
-  Schnelle Performance-Analysen für operative Fragestellungen
-  
----
+**Was ich einbringe:**
+- Datenaufbereitung und Analyse aus relationalen Datenbanken (PostgreSQL)
+- Analyse, Monitoring und Einordnung betrieblicher KPIs
+- Reports und Dashboards für Fach- und Managementbereiche
+- Klare, verständliche Kommunikation von Analyseergebnissen
 
-## Technisches Skillset
-
-### SQL & Datenmodellierung
-- SQL (PostgreSQL), JOINs, CTEs, Window Functions
-- Analytische Abfragen, Datenvalidierung
-
-### Business Intelligence & Reporting
-- Power BI, Power Query
-- KPI-Design, Management-Reports
-- Business-orientierte Datenvisualisierung
-
-### Excel & Ad-hoc-Analysen
-- Pivot Tables & Slicer
-- Power Query
-- Schnelle Analyse- und Validierungsworkflows
-
-### Python
-- Pandas, NumPy, Matplotlib
-- Explorative Analysen & einfache Automatisierungen
-
-### Tools & Arbeitsweise
-- Git / GitHub, Jupyter Notebooks
-- Strukturierte, reproduzierbare Analyse-Workflows
+Mein Ziel ist es, Analysen zu liefern, die **verstanden werden und genutzt werden**.
 
 ---
 
-## Analytische Schwerpunkte
-- SQL-basierte Business-Analysen
-- KPI-Definition und Reporting
-- Datenmodellierung für Analytics
-- BI-Dashboards für Fachbereiche
-- Analyse operativer und prozessualer Kennzahlen
+## Warum Business Intelligence?
+
+Mich interessiert die Schnittstelle zwischen **Daten, Prozessen und unternehmerischen Entscheidungen**.  
+Besonders reizvoll sind für mich Fragestellungen, bei denen Analysen **spürbare Auswirkungen auf den Arbeitsalltag** haben.
+
+Ich fokussiere mich bewusst nicht auf theoretische Modellierung, sondern auf **praxisnahe Analysen für Fachbereiche** – mit dem Anspruch, dass Reports **handlungsrelevant** sind und echten Mehrwert liefern.
 
 ---
 
-## Persönliche Kompetenzen
-- Analytisches, strukturiertes Arbeiten
-- Verständnis für betriebswirtschaftliche Kennzahlen
-- Klare Kommunikation von Analyseergebnissen
-- Hohe Lernbereitschaft & zuverlässige Arbeitsweise
+## Ausgewählte Projekte (Auszug)
+
+**Order-to-Cash Process Mining**  
+Analyse von O2C-Abweichungen zur Identifikation operativer Schwachstellen  
+→ Mehr Transparenz für Management & Fachbereiche, Ableitung konkreter Optimierungsansätze  
+🔗 Repository: folgt
+
+**End-to-End Business Analytics (Datenbank → Power BI)** *(in Arbeit)*  
+Aufbau eines Management-Dashboards von der Datenaufbereitung bis zur Visualisierung  
+→ Einheitliches KPI-Verständnis und schneller Überblick für Entscheidungsrunden  
+🔗 Repository: folgt
+
+**Excel Ad-hoc Performance Analysis** *(in Arbeit)*  
+Schnelle Analysen operativer Fragestellungen  
+→ Zeitnahe Entscheidungsunterstützung ohne hohen Implementierungsaufwand  
+🔗 Repository: folgt
+
+Gerne erläutere ich Projekte und Vorgehensweisen auch **in einem kurzen persönlichen Austausch**.
 
 ---
 
-## Kontakt
-📧 **E-Mail:** jankrings.data@gmail.com  
-🔗 **LinkedIn:** https://de.linkedin.com/in/jan-krings-3bb081323  
-💻 **Portfolio (GitHub):** https://github.com/jan-krings-dev  
+## Interesse an Machine Learning & KI
 
-Interesse an **Werkstudenten-, Junior- oder Einstiegspositionen** im Bereich  
-**Business Intelligence, Data Analytics und Reporting**.
+Neben klassischer Analytics beschäftige ich mich mit **Machine Learning und KI** mit klarem Praxisfokus.  
+Ich habe einfache Klassifikations-, Regressions- und Autoencoder-Modelle in Python trainiert und eingesetzt, um deren **Einsatzmöglichkeiten realistisch einzuordnen**.
+
+Mein Interesse liegt dabei nicht in Theorie, sondern in der Frage, **wo ML Analytics sinnvoll ergänzt** – z. B. zur Entscheidungsunterstützung.  
+Aktuelle Entwicklungen verfolge ich regelmäßig über Fachmedien und Podcasts (z. B. *KI Update*, *F.A.Z. Künstliche Intelligenz*).
+
+---
+
+## Persönlich
+
+Neben Analytics:
+- 🌱 Interesse an Zimmerpflanzen
+- 👨‍🍳 Hobbykoch 
+- 🎧 Podcast-Enthusiast (Technologie, KI, Wirtschaft, Politik)
+
+---
+
+## Kontakt & Austausch
+
+📧 jankrings.data@gmail.com  
+🔗 LinkedIn: https://de.linkedin.com/in/jan-krings-3bb081323  
+💻 GitHub: https://github.com/jan-krings-dev  
+
+Ich freue mich über **direkten Austausch**.  
+Antwort i. d. R. innerhalb von **24–48 Stunden**.
