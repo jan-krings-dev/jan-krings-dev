@@ -38,7 +38,7 @@ Ich fokussiere mich bewusst nicht auf theoretische Modellierung, sondern auf **p
 **Order-to-Cash Process Mining**  
 Analyse von O2C-Abweichungen zur Identifikation operativer Schwachstellen  
 → Mehr Transparenz für Management & Fachbereiche, Ableitung konkreter Optimierungsansätze  
-🔗 Repository: folgt
+🔗 Repository: [o2c_process_mining_woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
 
 **End-to-End Business Analytics (Datenbank → Power BI)** *(in Arbeit)*  
 Aufbau eines Management-Dashboards von der Datenaufbereitung bis zur Visualisierung  
