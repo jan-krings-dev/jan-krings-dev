@@ -1,83 +1,58 @@
-# Jan Krings – Junior Data Analyst | Business Intelligence & Reporting
+# Jan Krings – Junior Data Analyst (Business Intelligence & Reporting)
 
-Ich unterstütze Fachbereiche dabei, **Daten in verständliche KPIs und Reports zu übersetzen**, die im operativen und strategischen Alltag **konkrete Entscheidungen ermöglichen**.
+Junior Analyst mit Fokus auf **Business Analytics, Reporting und Entscheidungsunterstützung**.  
+Ich übersetze **operative Daten in klare Kennzahlen und Reports**, die im Fach- und Managementalltag genutzt werden.
 
-**Fokus:** Business Analytics · KPI-Reporting · Entscheidungsunterstützung  
-**Werkzeuge:** Excel · Power BI · Python · SQL (PostgreSQL)  
-**Zielrollen:** Werkstudent · Junior · Entry-Level (Data Analytics, BI & Reporting)  
-🎓 B.Sc. Data & Information Science (TH Köln), Abschluss 07/2026 · wirtschaftlicher Schwerpunkt
+**Schwerpunkte:** Business Intelligence · KPI-Design · Reporting  
+**Tools:** SQL (PostgreSQL) · Power BI · Excel · Python (Data Work Essentials)  
+**Zielrollen:** Junior Data Analyst · BI / Reporting Analyst  
+🎓 B.Sc. Data & Information Science (TH Köln), Abschluss 07/2026
 
 ---
 
 ## Kurzprofil
 
-B.Sc.-Student mit wirtschaftlichem Fokus und starkem Praxisbezug in **Business Analytics und Reporting**.  
-Ich arbeite entlang der klassischen Analyse- und Reporting-Kette – von der **Datenaufbereitung** bis zur **adressatengerechten Kommunikation** von Ergebnissen.
+- Praxisorientierter Junior Analyst mit wirtschaftlichem Fokus  
+- End-to-End-Analytics: **Datenaufbereitung → KPI-Definition → Reporting**
+- Sicher im Umgang mit **relationalen Daten, Datenqualität und Reporting-Tools**
+- Klare, adressatengerechte Kommunikation von Analyseergebnissen
 
-**Was ich einbringe:**
-- Datenaufbereitung und Analyse aus relationalen Datenbanken (PostgreSQL)
-- Analyse, Monitoring und Einordnung betrieblicher KPIs
-- Reports und Dashboards für Fach- und Managementbereiche
-- Klare, verständliche Kommunikation von Analyseergebnissen
-
-Mein Ziel ist es, Analysen zu liefern, die **verstanden werden und genutzt werden**.
+**Ziel:** Analysen liefern, die verstanden werden und Entscheidungen unterstützen.
 
 ---
 
-## Warum Business Intelligence?
+## Fokus: Business Intelligence im Arbeitsalltag
 
-Mich interessiert die Schnittstelle zwischen **Daten, Prozessen und unternehmerischen Entscheidungen**.  
-Besonders reizvoll sind für mich Fragestellungen, bei denen Analysen **spürbare Auswirkungen auf den Arbeitsalltag** haben.
-
-Ich fokussiere mich bewusst nicht auf theoretische Modellierung, sondern auf **praxisnahe Analysen für Fachbereiche** – mit dem Anspruch, dass Reports **handlungsrelevant** sind und echten Mehrwert liefern.
+Mein Schwerpunkt liegt auf der **Schnittstelle zwischen Daten, Prozessen und Entscheidungen**.  
+Ich arbeite bewusst **business- und praxisnah**: keine theoretische Modellierung, kein Forschungsfokus, sondern **robuste, erklärbare Analysen** für den operativen Einsatz.
 
 ---
 
-## Ausgewählte Projekte (Auszug)
+## Projekte (Auszug)
 
-**Order-to-Cash Process Mining**  
-Analyse von O2C-Abweichungen zur Identifikation operativer Schwachstellen  
-→ Mehr Transparenz für Management & Fachbereiche, Ableitung konkreter Optimierungsansätze  
-🔗 Repository: [o2c_process_mining_woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
+### Order-to-Cash Process Analytics
+Analyse von Order-to-Cash-Abweichungen zur Identifikation operativer Engpässe  
+→ KPI-basierte Transparenz für Fachbereiche & Management  
+🔗 Repository: `o2c_process_mining_woodcorp`
 
-**End-to-End Business Analytics (Datenbank → Power BI)** *(in Arbeit)*  
-Aufbau eines Management-Dashboards von der Datenaufbereitung bis zur Visualisierung  
-→ Einheitliches KPI-Verständnis und schneller Überblick für Entscheidungsrunden  
+### SQL-zentriertes End-to-End Reporting *(in Arbeit)*
+Aufbau eines **operativen Dashboards** entlang des klassischen Analysten-Stacks (SQL → Excel → Power BI)  
+→ Saubere KPI-Logik, reproduzierbares Reporting, alltäglicher Use-Case  
 🔗 Repository: folgt
 
-**Excel Ad-hoc Performance Analysis** *(in Arbeit)*  
-Schnelle Analysen operativer Fragestellungen  
-→ Zeitnahe Entscheidungsunterstützung ohne hohen Implementierungsaufwand  
+### Bachelorprojekt – Entwicklung: BI-Leitfaden & Reporting-Framework *(in Arbeit)*
+Praxisleitfaden für strukturierte BI-Arbeit mit Power BI  
+→ Fokus auf Arbeitsweise, Datenmodell, KPI-Logik und Entscheidungsrelevanz für ausgewählte Geschäftsfelder
 🔗 Repository: folgt
 
-Gerne erläutere ich Projekte und Vorgehensweisen auch **in einem kurzen persönlichen Austausch**.
+Gerne erläutere ich Vorgehen und Projekte **kurz, strukturiert und fachlich** im persönlichen Austausch.
 
 ---
 
-## Interesse an Machine Learning & KI
-
-Neben klassischer Analytics beschäftige ich mich mit **Machine Learning und KI** mit klarem Praxisfokus.  
-Ich habe einfache Klassifikations-, Regressions- und Autoencoder-Modelle in Python trainiert und eingesetzt, um deren **Einsatzmöglichkeiten realistisch einzuordnen**.
-
-Mein Interesse liegt dabei nicht in Theorie, sondern in der Frage, **wo ML Analytics sinnvoll ergänzt** – z. B. zur Entscheidungsunterstützung.  
-Aktuelle Entwicklungen verfolge ich regelmäßig über Fachmedien und Podcasts (z. B. *KI Update*, *F.A.Z. Künstliche Intelligenz*).
-
----
-
-## Persönlich
-
-Neben Analytics:
-- 🌱 Interesse an Zimmerpflanzen
-- 👨‍🍳 Hobbykoch 
-- 🎧 Podcast-Enthusiast (Technologie, KI, Wirtschaft, Politik)
-
----
-
-## Kontakt & Austausch
+## Kontakt
 
 📧 jankrings.data@gmail.com  
-🔗 LinkedIn: https://de.linkedin.com/in/jan-krings-3bb081323  
-💻 GitHub: https://github.com/jan-krings-dev  
+🔗 LinkedIn: linkedin.com/in/jan-krings-3bb081323  
+💻 GitHub: github.com/jan-krings-dev  
 
-Ich freue mich über **direkten Austausch**.  
 Antwort i. d. R. innerhalb von **24–48 Stunden**.
