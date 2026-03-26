@@ -13,8 +13,8 @@ Aktuell schließe ich mein Studium an der TH Köln ab, schreibe eine praxisorien
 Ich bin offen für Einstiegsrollen als Junior Business Analyst, Junior Data Analyst, BI Analyst oder Reporting Analyst im Inhouse-Umfeld.
 
 **Schwerpunkte:** Business Intelligence · KPI-Definition · Reporting · Datenvalidierung  
-**Tools:** SQL (PostgreSQL) · Power BI · Excel · Python  
-**Abschluss:** B.Sc. Data & Information Science (TH Köln), voraussichtlich 07/2026
+**Tools:** SQL (PostgreSQL, MySQL) · Power BI · Excel · Python  
+**Abschluss:** B.Sc. Data & Information Science (TH Köln) - Schwerpunkt: Data Analyst, Abschluss Juli 2026
 
 ---
 
