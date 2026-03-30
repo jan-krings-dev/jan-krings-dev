@@ -44,7 +44,7 @@ Identifikation ineffizienter Stores und strukturierte Vergleichbarkeit von Perfo
 **Repository**  
 [retail-performance-dashboard](https://github.com/jan-krings-dev/retail-performance-dashboard)
 
-![Executive Overview](https://raw.githubusercontent.com/jan-krings-dev/retail-performance-dashboard/main/doc/screenshots/executive_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/jan-krings-dev/retail-performance-dashboard/main/docs/screenshots/executive_overview.png)
 
 ---
 
@@ -65,6 +65,8 @@ Identifikation weniger, hochrelevanter Abweichungen mit signifikantem Einfluss a
 
 **Repository**  
 [o2c_process_mining_woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
+
+![Execution Gap Prioritization](https://raw.githubusercontent.com/jan-krings-dev/o2c_process_mining_woodcorp/main/ressources/gaps_slide.PNG)
 
 ---
 
