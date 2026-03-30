@@ -1,16 +1,15 @@
 # Jan Krings – Junior Data / BI Analyst
 
-Ich arbeite an der Schnittstelle zwischen Daten, Reporting und Fachbereich mit einem klaren Fokus auf BI-nahe Analyse- und Reporting-Aufgaben.
+Ich arbeite an der Schnittstelle zwischen Daten, Reporting und Fachbereich mit Fokus auf BI-nahe Analyse- und Reporting-Aufgaben.
 
-Mein Schwerpunkt liegt auf der strukturierten Aufbereitung operativer Daten, der Entwicklung nachvollziehbarer KPI-Logik und der Umsetzung adressatengerechter Reports und Dashboards für betriebliche Fragestellungen. Ich arbeite mit Unternehmensdaten im Kontext von SQL-basierter Datenaufbereitung, Datenvalidierung, Reporting und fachbereichsnaher Analyse.
+Mein Schwerpunkt liegt auf der strukturierten Aufbereitung operativer Daten, der Entwicklung konsistenter KPI-Logik und der Umsetzung adressatengerechter Reports und Dashboards für betriebliche Fragestellungen.  
+Ich arbeite mit SQL-basierter Datenaufbereitung, Datenvalidierung und fachbereichsnaher Analyse.
 
-Meine fachlichen Schwerpunkte liegen in den Bereichen Business Intelligence, KPI-Definition, Reporting und Datenvalidierung. Im operativen Fokus stehen für mich SQL, Power BI und Excel; Python nutze ich ergänzend für analysebezogene Aufgaben.
+Aktuell schließe ich mein Studium an der TH Köln ab und dokumentiere ausgewählte Analyse- und Reporting-Projekte in diesem Portfolio.
 
-Aktuell schließe ich mein Studium an der TH Köln ab, schreibe eine praxisorientierte Bachelorarbeit im BI-/Reporting-Kontext und dokumentiere ausgewählte Analyse- und Reporting-Projekte in diesem Portfolio.
+**Ziel:** Einstieg in Data-, BI- oder Reporting-Rollen mit Fokus auf strukturierte Analysen, KPI-Logik und belastbare Reporting-Lösungen.
 
-Mein Ziel sind Einstiegsrollen im Umfeld von Data, BI und Reporting, in denen ich strukturierte Analysen, saubere KPI-Logik und belastbare Reporting-Lösungen in einem fachbereichsnahen Kontext weiter ausbauen kann.
-
-Perspektivisch interessiert mich auch die Weiterentwicklung in Richtung Analytics Engineering oder Data Engineering, insbesondere an der Schnittstelle zwischen Datenmodellierung, Reporting-Logik und belastbaren Analysegrundlagen.
+---
 
 ## Profil auf einen Blick
 
@@ -31,7 +30,7 @@ B.Sc. Data & Information Science (TH Köln), voraussichtlich Juli 2026
 
 End-to-End-BI-Projekt für operative Retail-Analysen mit PostgreSQL, SQL und Power BI.
 
-Im Projekt habe ich mehrere Rohdatenquellen in PostgreSQL geladen, bereinigt und über eine Reporting-Schicht für Power BI aufbereitet. Darauf aufbauend habe ich ein mehrseitiges Dashboard für Umsatz-, Profitabilitäts-, Store-, Trend- und Underperformance-Analysen entwickelt.
+Ziel war der Aufbau einer konsistenten Reporting-Lösung zur Analyse von Umsatz, Profitabilität und Store-Effizienz sowie zur Identifikation ineffizienter Standorte.
 
 **Fokus**  
 KPI-Logik · Datenaufbereitung · Reporting-Views · Dashboard-Entwicklung
@@ -39,15 +38,35 @@ KPI-Logik · Datenaufbereitung · Reporting-Views · Dashboard-Entwicklung
 **Stack**  
 PostgreSQL · SQL · Power BI
 
-**Status**  
-Abgeschlossen
+**Mehrwert**  
+Identifikation ineffizienter Stores und strukturierte Vergleichbarkeit von Performance über Länder und Märkte hinweg
 
 **Repository**  
 [retail-performance-dashboard](https://github.com/jan-krings-dev/retail-performance-dashboard)
 
 ![Executive Overview](https://raw.githubusercontent.com/jan-krings-dev/retail-performance-dashboard/main/doc/screenshots/executive_overview.png)
 
-*Power-BI-Dashboard-Auszug (Seite 1 von 5) mit zentralen KPIs, Zeitverlauf und Ländervergleich im Retail-Kontext.*
+---
+
+### Order-to-Cash Process Analysis (Woodcorp)
+
+Analyse eines Order-to-Cash-Prozesses mit Fokus auf operative Abweichungen nach Order Release unter Verwendung von Process Mining (Celonis) und Python.
+
+Ziel war die Identifikation von Execution Gaps, die Durchlaufzeiten verlängern und die Prozessstabilität beeinträchtigen, sowie deren Priorisierung nach operativem Impact.
+
+**Fokus**  
+Prozessanalyse · KPI-Logik · Execution Gaps · Priorisierung
+
+**Stack**  
+Celonis · Python (Pandas)
+
+**Mehrwert**  
+Identifikation weniger, hochrelevanter Abweichungen mit signifikantem Einfluss auf Durchlaufzeit und Planungssicherheit
+
+**Repository**  
+[o2c_process_mining_woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
+
+---
 
 ### Bachelorprojekt – BI-Leitfaden & Reporting-Framework
 
