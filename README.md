@@ -20,7 +20,7 @@ Business Intelligence · KPI-Definition · Reporting · Datenvalidierung
 SQL (PostgreSQL, MySQL) · Power BI · Excel · Python
 
 **Abschluss**  
-B.Sc. Data & Information Science (TH Köln), voraussichtlich Juli 2026
+B.Sc. Data & Information Science (TH Köln), voraussichtlich August 2026
 
 ---
 
