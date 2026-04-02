@@ -70,6 +70,28 @@ Identifikation weniger, hochrelevanter Abweichungen mit signifikantem Einfluss a
 
 ---
 
+### Olist E-Commerce Analytics
+
+Analyse eines realen E-Commerce-Marktplatzes mit Fokus auf operative Performance, Umsatzverteilung und Customer Experience auf Basis von SQL und strukturierten BI-Analysen.
+
+Ziel war der Aufbau einer konsistenten Analysebasis zur Identifikation zentraler Performance-Treiber, insbesondere im Zusammenspiel von Delivery, Reviews und Umsatzstruktur.
+
+**Fokus**  
+Datenmodellierung · KPI-Logik · Performance-Analyse · Ursachenanalyse
+
+**Stack**  
+PostgreSQL · SQL · Python (Pandas) · Streamlit
+
+**Mehrwert**  
+Identifikation von Delivery Performance als zentralem Treiber der Kundenzufriedenheit sowie Aufdeckung starker Umsatzkonzentration auf wenige Kunden und Seller
+
+**Repository**  
+[ecommerce-performance-analysis](https://github.com/jan-krings-dev/ecommerce-performance-analysis)
+
+![Dashboard Overview](https://raw.githubusercontent.com/jan-krings-dev/ecommerce-performance-analysis/main/assets/screenshots/dashboard_overview.PNG)
+
+---
+
 ### Bachelorprojekt – BI-Leitfaden & Reporting-Framework
 
 Entwicklung eines praxisorientierten Leitfadens für strukturierte BI-Arbeit mit Power BI.
