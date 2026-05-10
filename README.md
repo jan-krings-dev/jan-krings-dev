@@ -48,6 +48,31 @@ Identifikation ineffizienter Stores und strukturierte Vergleichbarkeit von Perfo
 
 ---
 
+
+### Retail Analytics Pipeline
+
+End-to-End-Analytics-Engineering-Projekt zur Verarbeitung operativer Retail-Daten mit Python, PostgreSQL und dbt.
+
+Ziel war der Aufbau einer mehrschichtigen Datenpipeline zur automatisierbaren Validierung, Transformation und Bereitstellung analytischer Datenmodelle für BI- und Reporting-Anwendungen.
+
+Im Projekt wurden operative Verkaufs-, Bestands- und Lieferdaten verarbeitet und über Staging-, Intermediate-, Fact- und Mart-Layer strukturiert modelliert.
+
+**Fokus**  
+Analytics Engineering · Datenmodellierung · dbt · Datenqualität · Pipeline-Orchestrierung
+
+**Stack**  
+Python · PostgreSQL · dbt · SQL · Power BI
+
+**Mehrwert**  
+Aufbau einer skalierbaren und nachvollziehbaren Datenpipeline zur Bereitstellung konsistenter KPI- und Reporting-Modelle für operative Retail-Analysen
+
+**Repository**  
+[retail_bi_pipeline_rewe](https://github.com/jan-krings-dev/retail_bi_pipeline_rewe)
+
+![Pipeline Architecture](https://raw.githubusercontent.com/jan-krings-dev/retail_bi_pipeline_rewe/main/assets/pipeline_chart.png)
+
+---
+
 ### Order-to-Cash Process Analysis (Woodcorp)
 
 Analyse eines Order-to-Cash-Prozesses mit Fokus auf operative Abweichungen nach Order Release unter Verwendung von Process Mining (Celonis) und Python.
