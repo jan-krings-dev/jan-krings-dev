@@ -1,146 +1,141 @@
-# Jan Krings – Junior Data / BI Analyst
+# Jan Krings – Data Engineer | Data Analytics & Automation
 
-Ich arbeite an der Schnittstelle zwischen Daten, Reporting und Fachbereich mit Fokus auf BI-nahe Analyse- und Reporting-Aufgaben.
+Ich arbeite an der Schnittstelle zwischen **Data Engineering, Datenanalyse und Prozessautomatisierung**.
 
-Mein Schwerpunkt liegt auf der strukturierten Aufbereitung operativer Daten, der Entwicklung konsistenter KPI-Logik und der Umsetzung adressatengerechter Reports und Dashboards für betriebliche Fragestellungen.  
-Ich arbeite mit SQL-basierter Datenaufbereitung, Datenvalidierung und fachbereichsnaher Analyse.
+Mein Schwerpunkt liegt auf dem Aufbau und der Weiterentwicklung von Datenprozessen, mit denen operative Daten automatisiert erfasst, strukturiert, validiert, historisiert und für Analysen sowie interne Anwendungen bereitgestellt werden.
 
-Aktuell schließe ich mein Studium an der TH Köln ab und dokumentiere ausgewählte Analyse- und Reporting-Projekte in diesem Portfolio.
+In meiner aktuellen Tätigkeit als Data Engineer entwickle und betreue ich datengetriebene Lösungen in einem mittelständisch geprägten Umfeld. Dazu gehören Datenpipelines, zentrale Datenstrukturen, Datenqualitätsprüfungen und interne Tools zur Unterstützung operativer Prozesse.
 
-**Ziel:** Einstieg in Data-, BI- oder Reporting-Rollen mit Fokus auf strukturierte Analysen, KPI-Logik und belastbare Reporting-Lösungen.
+Darüber hinaus beschäftige ich mich mit der **Automatisierung bestehender Arbeitsabläufe und der Integration von KI in datenbezogene Prozesse**. Datenanalyse und Business Intelligence bilden dabei weiterhin einen wichtigen Bestandteil – insbesondere bei der Übersetzung operativer Daten in fachlich nutzbare Informationen.
 
 ---
 
 ## Profil auf einen Blick
 
 **Schwerpunkte**  
-Business Intelligence · KPI-Definition · Reporting · Datenvalidierung
+Data Engineering · Datenpipelines · Datenmodellierung · Datenqualität · Prozessautomatisierung · Data Analytics · KI-Integration
 
-**Tools**  
-SQL (PostgreSQL, MySQL) · Power BI · Excel · Python
+**Technologien**  
+Python · SQL · SQLite · PostgreSQL · dbt · Git · Power BI · Excel
+
+**Aktuelle Tätigkeit**  
+Data Engineer · Kfz-Gewerbe NRW
 
 **Abschluss**  
-B.Sc. Data & Information Science (TH Köln), voraussichtlich August 2026
+B.Sc. Data & Information Science · TH Köln
 
 ---
 
 ## Ausgewählte Projekte
 
-### Retail Performance Dashboard
-
-End-to-End-BI-Projekt für operative Retail-Analysen mit PostgreSQL, SQL und Power BI.
-
-Ziel war der Aufbau einer konsistenten Reporting-Lösung zur Analyse von Umsatz, Profitabilität und Store-Effizienz sowie zur Identifikation ineffizienter Standorte.
-
-**Fokus**  
-KPI-Logik · Datenaufbereitung · Reporting-Views · Dashboard-Entwicklung
-
-**Stack**  
-PostgreSQL · SQL · Power BI
-
-**Mehrwert**  
-Identifikation ineffizienter Stores und strukturierte Vergleichbarkeit von Performance über Länder und Märkte hinweg
-
-**Repository**  
-[retail-performance-dashboard](https://github.com/jan-krings-dev/retail-performance-dashboard)
-
-![Executive Overview](https://raw.githubusercontent.com/jan-krings-dev/retail-performance-dashboard/main/docs/screenshots/executive_overview.png)
-
----
-
-
 ### Retail Analytics Pipeline
 
-End-to-End-Analytics-Engineering-Projekt zur Verarbeitung operativer Retail-Daten mit Python, PostgreSQL und dbt.
+End-to-End-Analytics-Engineering-Projekt zur automatisierten Verarbeitung operativer Retail-Daten mit Python, PostgreSQL und dbt.
 
-Ziel war der Aufbau einer mehrschichtigen Datenpipeline zur automatisierbaren Validierung, Transformation und Bereitstellung analytischer Datenmodelle für BI- und Reporting-Anwendungen.
+Ziel war der Aufbau einer mehrschichtigen Datenpipeline zur Validierung, Transformation und Bereitstellung analytischer Datenmodelle für nachgelagerte BI- und Reporting-Anwendungen.
 
-Im Projekt wurden operative Verkaufs-, Bestands- und Lieferdaten verarbeitet und über Staging-, Intermediate-, Fact- und Mart-Layer strukturiert modelliert.
-
-**Fokus**  
-Analytics Engineering · Datenmodellierung · dbt · Datenqualität · Pipeline-Orchestrierung
-
-**Stack**  
-Python · PostgreSQL · dbt · SQL · Power BI
-
-**Mehrwert**  
-Aufbau einer skalierbaren und nachvollziehbaren Datenpipeline zur Bereitstellung konsistenter KPI- und Reporting-Modelle für operative Retail-Analysen
-
-**Repository**  
-[retail_bi_pipeline_rewe](https://github.com/jan-krings-dev/retail_bi_pipeline_rewe)
-
-![Pipeline Architecture](https://raw.githubusercontent.com/jan-krings-dev/retail_bi_pipeline_rewe/main/assets/pipeline_chart.png)
-
----
-
-### Order-to-Cash Process Analysis (Woodcorp)
-
-Analyse eines Order-to-Cash-Prozesses mit Fokus auf operative Abweichungen nach Order Release unter Verwendung von Process Mining (Celonis) und Python.
-
-Ziel war die Identifikation von Execution Gaps, die Durchlaufzeiten verlängern und die Prozessstabilität beeinträchtigen, sowie deren Priorisierung nach operativem Impact.
+Operative Verkaufs-, Bestands- und Lieferdaten werden über mehrere Verarbeitungsschichten strukturiert und in Staging-, Intermediate-, Fact- und Mart-Modellen aufbereitet.
 
 **Fokus**  
-Prozessanalyse · KPI-Logik · Execution Gaps · Priorisierung
+Data Engineering · Datenmodellierung · ETL/ELT · Datenqualität · Pipeline-Orchestrierung
 
 **Stack**  
-Celonis · Python (Pandas)
+Python · PostgreSQL · SQL · dbt · Power BI
 
 **Mehrwert**  
-Identifikation weniger, hochrelevanter Abweichungen mit signifikantem Einfluss auf Durchlaufzeit und Planungssicherheit
+Aufbau einer nachvollziehbaren und erweiterbaren Datenpipeline zur konsistenten Bereitstellung analytischer Daten und KPI-Modelle.
 
 **Repository**  
-[o2c_process_mining_woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
-
-![Execution Gap Prioritization](https://raw.githubusercontent.com/jan-krings-dev/o2c_process_mining_woodcorp/main/ressources/gaps_slide.PNG)
+[retail-bi-pipeline-rewe](https://github.com/jan-krings-dev/retail_bi_pipeline_rewe)
 
 ---
 
 ### Olist E-Commerce Analytics
 
-Analyse eines realen E-Commerce-Marktplatzes mit Fokus auf operative Performance, Umsatzverteilung und Customer Experience auf Basis von SQL und strukturierten BI-Analysen.
+Datenanalyse eines realen E-Commerce-Marktplatzes mit Fokus auf operative Performance, Umsatzstruktur und Customer Experience.
 
-Ziel war der Aufbau einer konsistenten Analysebasis zur Identifikation zentraler Performance-Treiber, insbesondere im Zusammenspiel von Delivery, Reviews und Umsatzstruktur.
+Die Rohdaten wurden mit PostgreSQL, SQL und Python strukturiert aufbereitet und in eine konsistente Analysebasis überführt. Darauf aufbauend wurden zentrale Performance-Treiber und Zusammenhänge zwischen Lieferperformance, Kundenbewertungen und Umsatz untersucht.
 
 **Fokus**  
-Datenmodellierung · KPI-Logik · Performance-Analyse · Ursachenanalyse
+Datenmodellierung · SQL · Datenaufbereitung · KPI-Logik · Ursachenanalyse
 
 **Stack**  
 PostgreSQL · SQL · Python (Pandas) · Streamlit
 
 **Mehrwert**  
-Identifikation von Delivery Performance als zentralem Treiber der Kundenzufriedenheit sowie Aufdeckung starker Umsatzkonzentration auf wenige Kunden und Seller
+Identifikation von Delivery Performance als relevantem Treiber der Kundenzufriedenheit sowie Analyse der Umsatzkonzentration auf Kunden und Seller.
 
 **Repository**  
 [ecommerce-performance-analysis](https://github.com/jan-krings-dev/ecommerce-performance-analysis)
 
-![Dashboard Overview](https://raw.githubusercontent.com/jan-krings-dev/ecommerce-performance-analysis/main/assets/screenshots/dashboard_overview.PNG)
+---
+
+### Retail Performance Dashboard
+
+End-to-End-BI-Projekt zur strukturierten Aufbereitung und Analyse operativer Retail-Daten.
+
+Auf Basis von PostgreSQL und SQL wurde eine konsistente Reporting-Grundlage aufgebaut und anschließend in Power BI für die Analyse von Umsatz, Profitabilität und Store-Performance bereitgestellt.
+
+**Fokus**  
+Datenaufbereitung · KPI-Logik · Reporting Views · Datenvalidierung · BI
+
+**Stack**  
+PostgreSQL · SQL · Power BI
+
+**Mehrwert**  
+Strukturierte Vergleichbarkeit der Performance über Stores, Länder und Märkte sowie Identifikation auffälliger und ineffizienter Standorte.
+
+**Repository**  
+[retail-performance-dashboard](https://github.com/jan-krings-dev/retail-performance-dashboard)
 
 ---
 
-### Bachelorprojekt – BI-Leitfaden & Reporting-Framework
+### Order-to-Cash Process Analysis
 
-Entwicklung eines praxisorientierten Leitfadens für strukturierte BI-Arbeit mit Power BI.
+Analyse eines Order-to-Cash-Prozesses mit Process Mining und Python zur Identifikation operativer Abweichungen nach Order Release.
 
-Im Fokus stehen Datenmodell, KPI-Logik, Reporting-Struktur und Entscheidungsrelevanz für ausgewählte Geschäftsfelder.
+Prozessdaten wurden systematisch untersucht, um Execution Gaps zu identifizieren, die Durchlaufzeiten und Prozessstabilität beeinflussen. Anschließend wurden die Abweichungen anhand ihres operativen Impacts priorisiert.
 
 **Fokus**  
-BI-Struktur · Reporting-Framework · KPI-Konzeption
+Prozessanalyse · Datenanalyse · KPI-Logik · Process Mining · Priorisierung
 
 **Stack**  
-Power BI · SQL
+Celonis · Python (Pandas)
 
-**Status**  
-In Arbeit
+**Mehrwert**  
+Identifikation weniger, hochrelevanter Prozessabweichungen mit deutlichem Einfluss auf Durchlaufzeit und Planungssicherheit.
+
+**Repository**  
+[o2c-process-mining-woodcorp](https://github.com/jan-krings-dev/o2c_process_mining_woodcorp)
+
+---
+
+## Technischer Fokus
+
+Meine Projekte und meine berufliche Arbeit konzentrieren sich insbesondere auf den Weg von operativen Rohdaten zu nutzbaren Datenprodukten:
+
+**Datenquellen → automatisierte Verarbeitung → Validierung → Historisierung → Datenmodellierung → Bereitstellung → Analyse & Automatisierung**
+
+Dabei interessieren mich insbesondere:
+
+- Aufbau wartbarer Datenpipelines und Datenprozesse
+- Strukturierung und Historisierung operativer Daten
+- Datenqualität und automatisierte Validierung
+- SQL-basierte Datenmodellierung
+- Automatisierung manueller und datengetriebener Prozesse
+- Entwicklung interner datenbasierter Tools
+- Integration von KI in bestehende Arbeits- und Datenprozesse
+- Data Analytics und BI auf konsistenten Datenstrukturen
 
 ---
 
 ## Kontakt
 
 **E-Mail**  
-jankrings.data@gmail.com
+[jankrings.data@gmail.com](mailto:jankrings.data@gmail.com)
 
 **LinkedIn**  
-linkedin.com/in/jan-krings-3bb081323
+[linkedin.com/in/jan-krings-3bb081323](https://linkedin.com/in/jan-krings-3bb081323)
 
 **GitHub**  
-github.com/jan-krings-dev
+[github.com/jan-krings-dev](https://github.com/jan-krings-dev)
